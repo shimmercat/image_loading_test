@@ -1,0 +1,4 @@
+shimmercat-devlove:
+    domains:
+        www.example.com:
+           root-dir: site
